@@ -6,5 +6,4 @@ Nombre: Yulissa Balvuca
 
 ## Funcionamiento
 
-![]() 
-
+![](img/bird-g8ee4f36d2_1280.jpg)
